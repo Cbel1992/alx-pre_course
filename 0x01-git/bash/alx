@@ -1,3 +1,10 @@
-#!/bin/bas
+
+#!/bin/bash
 update_script
 echo "ALX School"
+
+#!/bin/bash
+echo "School is so cool"
+
+ALX School
+
